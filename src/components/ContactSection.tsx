@@ -132,7 +132,7 @@ const ContactSection = () => {
               <div className="scroll-reveal">
                 <div className="glass-morphism p-8 rounded-2xl card-3d">
                   <h3 className="font-orbitron font-bold text-xl mb-6 text-secondary">
-                    Follow My Journey
+                    Connect With Me
                   </h3>
 
                   <div className="grid grid-cols-2 gap-4">
