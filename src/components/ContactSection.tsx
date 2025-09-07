@@ -92,7 +92,7 @@ const ContactSection = () => {
                       </div>
                       <div>
                         <p className="font-semibold text-foreground">Email</p>
-                        <p className="text-muted-foreground text-sm">yatnesh@example.com</p>
+                        <p className="text-muted-foreground text-sm">yatnesh322@gmail.com</p>
                       </div>
                     </div>
 
@@ -137,10 +137,21 @@ const ContactSection = () => {
                       <span className="font-semibold text-sm">YouTube</span>
                     </button>
                     
-                    <button className="flex items-center justify-center space-x-3 p-4 glass-morphism 
+{/*                     <button className="flex items-center justify-center space-x-3 p-4 glass-morphism 
                                      rounded-xl hover:shadow-glow-secondary transition-all duration-300 ripple group">
                       <Linkedin className="w-6 h-6 text-secondary group-hover:text-white transition-colors" />
-                      <span className="font-semibold text-sm">LinkedIn</span>
+                      <span className="font-semibold text-sm">LinkedIn</span> */}
+                    <Button>
+  <a
+    href="https://www.linkedin.com/in/yatnesh-agarwal-398759376/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="font-semibold text-sm"
+  >
+    LinkedIn
+  </a>
+</Button>
+
                     </button>
                   </div>
                 </div>
