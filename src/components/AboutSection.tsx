@@ -66,11 +66,11 @@ const AboutSection = () => {
                 {/* Stats */}
                 <div className="grid grid-cols-2 gap-6">
                   <div className="text-center p-4 glass-morphism rounded-xl">
-                    <div className="font-orbitron font-bold text-3xl neon-text animate-cyber-pulse">50+</div>
+                    <div className="font-orbitron font-bold text-3xl neon-text animate-cyber-pulse">800+</div>
                     <div className="font-inter text-sm text-muted-foreground">Projects Done</div>
                   </div>
                   <div className="text-center p-4 glass-morphism rounded-xl">
-                    <div className="font-orbitron font-bold text-3xl text-secondary animate-hologram">3+</div>
+                    <div className="font-orbitron font-bold text-3xl text-secondary animate-hologram">5+</div>
                     <div className="font-inter text-sm text-muted-foreground">Years Experience</div>
                   </div>
                 </div>
@@ -93,7 +93,7 @@ const AboutSection = () => {
                       <h4 className="font-orbitron font-bold text-xl text-primary">
                         B.Tech CS & AI
                       </h4>
-                      <span className="text-sm text-accent">2022 - Present</span>
+                      <span className="text-sm text-accent">2025 - 2029</span>
                     </div>
                     <p className="text-muted-foreground mb-2">
                       Newton School of Technology × Ajeenkya D Y Patil University
@@ -114,7 +114,7 @@ const AboutSection = () => {
                     </h4>
                     <div className="flex flex-wrap gap-3">
                       {[
-                        "Graphic Design", "Video Editing", "Final Cut Pro", 
+                        "Graphic Design", "Video Editing", "Final Cut Pro 2", 
                         "Adobe Photoshop", "UI/UX Design", "Motion Graphics"
                       ].map((skill) => (
                         <span key={skill} className="px-3 py-1 text-sm glass-morphism rounded-full 
