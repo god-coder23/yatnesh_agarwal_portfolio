@@ -66,13 +66,8 @@ const AboutSection = () => {
                 {/* Stats */}
                 <div className="grid grid-cols-2 gap-6">
                   <div className="text-center p-4 glass-morphism rounded-xl">
-                    <div className="font-orbitron font-bold text-3xl neon-text animate-cyber-pulse">800+</div>
-                    <div className="font-inter text-sm text-muted-foreground">Video Edited</div>
-                  </div>
-                  <div className="grid grid-cols-2 gap-6">
-                   <div className="text-center p-4 glass-morphism rounded-xl">
-                    <div className="font-orbitron font-bold text-3xl neon-text animate-cyber-pulse">1000+</div>
-                    <div className="font-inter text-sm text-muted-foreground">Thumbnails Created</div>
+                    <div className="font-orbitron font-bold text-3xl neon-text animate-cyber-pulse">800+, 1000+</div>
+                    <div className="font-inter text-sm text-muted-foreground">Video Edited & Thumbanils Created</div>
                   </div>
                   <div className="text-center p-4 glass-morphism rounded-xl">
                     <div className="font-orbitron font-bold text-3xl text-secondary animate-hologram">5+</div>
